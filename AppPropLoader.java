@@ -28,5 +28,4 @@ public class AppPropLoader {
 
 		return null;
 	}
-
 }
